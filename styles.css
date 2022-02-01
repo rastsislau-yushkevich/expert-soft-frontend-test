@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.showcase {
+    display: flex;
+    flex-direction: row;
+}
+
+.showcase__item {
+
+}
+
+.showcase__item img {
+
+}
+
+.showcase__item_text {
+
+}
+
+.showcase__item_price {
+    
+}
